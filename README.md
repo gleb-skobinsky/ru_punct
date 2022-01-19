@@ -69,7 +69,7 @@ Examples of texts corrected by the model before and after restoration:
 
 Results are logged to the file in results_logs:
 
-| Знак          | PRECISION | RECALL    | F-SCORE |
+| Punctuation mark          | PRECISION | RECALL    | F-SCORE |
 |---------------|-----------|-----------|---------|
 | .             | 93.8      | 93.1      | 93.4    |
 |?              | 75.8      | 28.9      | 41.8    |
