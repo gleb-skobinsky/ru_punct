@@ -9,7 +9,7 @@
 ```
 pip install -r requirements.txt
 ```
-<a href='https://drive.google.com/file/d/1ArzZuKFVyjriVYxKSHsOU5BKuSLVN1Ko/view?usp=sharing'> Скачайте</a> модель из Google Drive и поместите в папку проекта.
+<a href='https://drive.google.com/file/d/1jHxW4D7O1V4-h-adJxW27QttYvlpC_w6/view?usp=sharing'> Скачайте</a> модель из Google Drive и поместите в папку проекта.
 Запустите файл playing_with_model.py:
 ```
 python playing_with_model.py
