@@ -48,7 +48,7 @@ Clone or download the repository, then move to the project directory. Create a v
 ```
 pip install -r requirements.txt
 ```
-<a href='https://drive.google.com/file/d/1ArzZuKFVyjriVYxKSHsOU5BKuSLVN1Ko/view?usp=sharing'>Download</a> the pretrained model from Google Drive and copy it to the project folder.
+<a href='https://drive.google.com/file/d/1jHxW4D7O1V4-h-adJxW27QttYvlpC_w6/view?usp=sharing'>Download</a> the pretrained model from Google Drive and copy it to the project folder.
 Run playing_with_model.py:
 
 ```
